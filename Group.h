@@ -15,10 +15,10 @@ public:
 	Group();
 	Group(const Group& g_p); //Realize the copy constructor
 	~Group();
-	const std::vector<double>& GetAAR() { return AAR; } // move definition to .cpp
-	const std::vector<double>& GetCAAR() { return CAAR; } // same
+	const std::vector<double>& GetAAR();
+	const std::vector<double>& GetCAAR();
 	const Stock& GetStock(std::string ticker) const;
-	const std::vector<std::string>& GetMapKeys () const;
+	const std::vector<std::string>& GetMapKeys() const;
 	const int GetSize() const;
 	bool PushStock(const Stock& s);
 	bool Compute(); // wrong calculation

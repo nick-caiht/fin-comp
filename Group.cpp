@@ -1,10 +1,21 @@
 #include "Group.h"
-
+#include <vector>
 Group::Group() {
 
 }
 
 Group::~Group() {
+}
+
+Group::Group(const Group& g_p) :stocks(g_p.stocks), map_keys(g_p.map_keys), AAR(g_p.AAR), CAAR(g_p.CAAR){
+}
+
+const std::vector<double>& Group::GetAAR() {
+	return AAR;
+}
+
+const std::vector<double>& Group::GetCAAR() {
+	return CAAR;
 }
 
 bool Group::PushStock(const Stock& s) {
@@ -26,18 +37,25 @@ const Stock& Group::GetStock(std::string ticker) const {
 	//future improvment: try catch
 }
 
-//wrong calculation. Notice lenth(SPY)>len(stock). Use ETF::Slice(startdate, enddate).
-bool Group::Compute() {
-  double re_turnSum = 0;
-	for (auto j = stocks.begin(); j != stocks.end(); j++)
-		re_turnSum += j->second.re_turn;
-	AAR[0] = re_turnSum / stocks.size() - SPY.re_turn[i];
+//how to get ETF? pass by reference? Compute(ETF &SPY) 
+bool Group::Compute(ETF& SPY) {
+	//for each stock
+	for (int count = 0, auto i = stocks.begin(); i != stocks.end(); ++i, ++count) {
+		//Slice a sub-SPY with corresponding dates
+		ETF slicedSPY = SPY.Slice(i->second.start_date, i->second.end_date);
+		if(slicedSPY.re_turn.size() != 91 || i->second.re_turn.size() != 91) {
+			return false;
+		}
+		auto j = i->second.re_turn.begin();
+		for (int t = 0; j != i->second.re_turn.end(); ++j, ++t) {
+			double AR = j->second - slicedSPY.re_turn.find(j->first)->second;
+			//Calc running AAR
+			AAR[t] = (AAR[t] * count + AR) / (count+1);
+		}
+	}
+	//Calc CAAR
 	CAAR[0] = AAR[0];
-	for (int i = 1; i < AAR.size(); i++) {
-		double re_turnSum = 0;
-		for (auto j = stocks.begin(); j != stocks.end(); j++)
-			re_turnSum += j->second.re_turn;
-		AAR[i] = re_turnSum / stocks.size() - SPY.re_turn[i];
+	for (int i = 1; i < 91; ++i) {
 		CAAR[i] = CAAR[i - 1] + AAR[i];
 	}
 }
