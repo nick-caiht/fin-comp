@@ -1,10 +1,25 @@
 #include "Group.h"
-
+#include <vector>
 Group::Group() {
 
 }
 
 Group::~Group() {
+}
+
+Group::Group(const Group& g_p) {
+	stocks = g_p.stocks;
+	map_keys = g_p.map_keys;
+	AAR = g_p.AAR;
+	CAAR = g_p.CAAR;
+}
+
+const std::vector<double>& Group::GetAAR() {
+	return AAR;
+}
+
+const std::vector<double>& Group::GetCAAR() {
+	return CAAR;
 }
 
 bool Group::PushStock(const Stock& s) {
@@ -13,7 +28,8 @@ bool Group::PushStock(const Stock& s) {
 		stocks[s.getTicker()] = s;
 		map_keys.push_back(s.getTicker());
 		return true;
-	} else {
+	}
+	else {
 		return false;
 	}
 }
@@ -26,20 +42,27 @@ const Stock& Group::GetStock(std::string ticker) const {
 	//future improvment: try catch
 }
 
-//wrong calculation. Notice lenth(SPY)>len(stock). Use ETF::Slice(startdate, enddate).
+//how to get ETF? pass by reference? Compute(ETF &SPY) 
 bool Group::Compute() {
-  double re_turnSum = 0;
-	for (auto j = stocks.begin(); j != stocks.end(); j++)
-		re_turnSum += j->second.re_turn;
-	AAR[0] = re_turnSum / stocks.size() - SPY.re_turn[i];
-	CAAR[0] = AAR[0];
-	for (int i = 1; i < AAR.size(); i++) {
-		double re_turnSum = 0;
-		for (auto j = stocks.begin(); j != stocks.end(); j++)
-			re_turnSum += j->second.re_turn;
-		AAR[i] = re_turnSum / stocks.size() - SPY.re_turn[i];
-		CAAR[i] = CAAR[i - 1] + AAR[i];
+	std::vector<std::vector<double>> AR; //store abnormal returns
+	AR.resize(stocks.size()); 
+	for (int i = 0; i < stocks.size(); i++) {
+		AR[i].resize(90);
 	}
+	int stockCount = 0;
+	for (auto i = stocks.begin(); i != stocks.end(); i++){ //for each stock
+		ETF slicedSPY = SPY.Slice(i->second.start_date, i->second.start_date);//SPY with corresponding dates
+		auto slicedPtr = slicedSPY.re_turn.begin();
+		int posCount = 0;
+		for (auto j = i->second.re_turn.begin(); j != i->second.re_turn.end(); j++) { 
+			AR[stockCount][posCount] = i->second.re_turn->second - slicedPtr->re_turn->second;//ARit
+			slicedPtr++;
+			posCount++;
+		}
+		stockCount++;
+	}
+	//calc AAR
+	//calc CAAR
 }
 
 const int Group::GetSize() const {
