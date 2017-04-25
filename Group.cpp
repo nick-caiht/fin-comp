@@ -7,11 +7,7 @@ Group::Group() {
 Group::~Group() {
 }
 
-Group::Group(const Group& g_p) {
-	stocks = g_p.stocks;
-	map_keys = g_p.map_keys;
-	AAR = g_p.AAR;
-	CAAR = g_p.CAAR;
+Group::Group(const Group& g_p) :stocks(g_p.stocks), map_keys(g_p.map_keys), AAR(g_p.AAR), CAAR(g_p.CAAR){
 }
 
 const std::vector<double>& Group::GetAAR() {
@@ -44,25 +40,25 @@ const Stock& Group::GetStock(std::string ticker) const {
 
 //how to get ETF? pass by reference? Compute(ETF &SPY) 
 bool Group::Compute() {
-	std::vector<std::vector<double>> AR; //store abnormal returns
-	AR.resize(stocks.size()); 
-	for (int i = 0; i < stocks.size(); i++) {
-		AR[i].resize(90);
-	}
-	int stockCount = 0;
+	std::vector<double> AAR = std::vector<double>(90);
 	for (auto i = stocks.begin(); i != stocks.end(); i++){ //for each stock
 		ETF slicedSPY = SPY.Slice(i->second.start_date, i->second.start_date);//SPY with corresponding dates
 		auto slicedPtr = slicedSPY.re_turn.begin();
 		int posCount = 0;
 		for (auto j = i->second.re_turn.begin(); j != i->second.re_turn.end(); j++) { 
-			AR[stockCount][posCount] = i->second.re_turn->second - slicedPtr->re_turn->second;//ARit
+			AAR[posCount] += (j->second - slicedPtr->second);//ARit
 			slicedPtr++;
 			posCount++;
 		}
-		stockCount++;
 	}
 	//calc AAR
+	for(int i=0;i<90;i++)
+	  AAR[i] = AAR[i] / stocks.size();
 	//calc CAAR
+	std::vector<double> CAAR = std::vector<double>(90);
+	CAAR[0] = AAR[0];
+	for (int i = 1; i < 90; i++)
+		CAAR[i] = CAAR[i - 1] + AAR[i];
 }
 
 const int Group::GetSize() const {
