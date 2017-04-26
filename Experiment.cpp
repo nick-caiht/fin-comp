@@ -75,13 +75,15 @@ bool Experiment::UpdateGroups(const std::map<std::string, Stock>& allstocks_) {
 bool Experiment::DoExperiment() {
 	Group SubGroup;
 	for (int i = 0; i < resample_times; ++i) {
-		SubGroup = Sampling(big_groups[i]);
-		SubGroup.Compute();
-		std::vector<double> AAR = SubGroup.GetAAR();
-		std::vector<double> CAAR = SubGroup.GetCAAR();
-		for (int j = 0; j < 91; j++) {
-			AAR_avg(i, j) = (AAR_avg(i, j) * i + AAR[j]) / (j + 1);
-			CAAR_avg(i, j) = (AAR_avg(i, j) * i + CAAR[j]) / (j + 1);
+		for (int j = 0; j < 3; ++j) {
+			SubGroup = Sampling(big_groups[j]);
+			SubGroup.Compute();
+			std::vector<double> AAR = SubGroup.GetAAR();
+			std::vector<double> CAAR = SubGroup.GetCAAR();
+			for (int k = 0; k < 91; ++k) {
+				AAR_avg(j, k) = (AAR_avg(j, k) * i + AAR[j]) / (i + 1);
+				CAAR_avg(j, k) = (AAR_avg(j, k) * i + CAAR[j]) / (i + 1);
+			}
 		}
 	}
 }
