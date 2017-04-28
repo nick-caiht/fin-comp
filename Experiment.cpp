@@ -29,7 +29,8 @@ bool Experiment::SetThreshold(double t_h) {
 	if (t_h <= 10 && t_h >= 5) {
 		threshold = t_h;
 		return true;
-	} else {
+	}
+	else {
 		return false;
 	}
 }
@@ -58,10 +59,12 @@ bool Experiment::UpdateGroups(const std::map<std::string, Stock>& allstocks_) {
 		if (i->second.GetSurprise() > threshold) {
 			//Beat
 			big_groups[0].PushStock(i->second);
-		} else if (i->second.GetSurprise() < -threshold) {
+		}
+		else if (i->second.GetSurprise() < -threshold) {
 			//Miss
 			big_groups[2].PushStock(i->second);
-		} else {
+		}
+		else {
 			//Meet
 			big_groups[1].PushStock(i->second);
 		}
