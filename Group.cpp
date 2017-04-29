@@ -19,14 +19,9 @@ const std::vector<double>& Group::GetCAAR() {
 }
 
 bool Group::PushStock(const Stock& s) {
-	auto i = stocks.find(s.getTicker());
-	if (i != stocks.end()) {
-		stocks[s.getTicker()] = s;
-		map_keys.push_back(s.getTicker());
-		return true;
-	} else {
-		return false;
-	}
+	stocks.insert(std::pair<std::string, Stock>(s.getTicker(), s);
+	map_keys.push_back(s.getTicker());
+	return true;
 }
 
 const Stock& Group::GetStock(std::string ticker) const {
