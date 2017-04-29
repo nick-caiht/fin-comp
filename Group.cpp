@@ -19,14 +19,9 @@ const std::vector<double>& Group::GetCAAR() {
 }
 
 bool Group::PushStock(const Stock& s) {
-	auto i = stocks.find(s.getTicker());
-	if (i != stocks.end()) {
-		stocks[s.getTicker()] = s;
-		map_keys.push_back(s.getTicker());
-		return true;
-	} else {
-		return false;
-	}
+	stocks.insert(std::pair<std::string, Stock>(s.getTicker(), s);
+	map_keys.push_back(s.getTicker());
+	return true;
 }
 
 const Stock& Group::GetStock(std::string ticker) const {
@@ -37,8 +32,7 @@ const Stock& Group::GetStock(std::string ticker) const {
 	//future improvment: try catch
 }
 
-//how to get ETF? pass by reference? Compute(ETF &SPY) 
-bool Group::Compute(ETF& SPY) {
+bool Group::Compute(const ETF& SPY) {
 	//for each stock
 	for (int count = 0, auto i = stocks.begin(); i != stocks.end(); ++i, ++count) {
 		//Slice a sub-SPY with corresponding dates

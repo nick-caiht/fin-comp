@@ -40,13 +40,12 @@ bool Experiment::SetResampleTimes(int r_t) {
 	return true;
 }
 
-Group Experiment::Sampling(Group& b_g) {
+Group Experiment::Sampling(const Group& b_g) {
 	Group subgroup;
 	srand(time(NULL));
 	std::vector<std::string> keys = b_g.GetMapKeys();
-	std::random_shuffle(keys.begin(), keys.end());
 	for (int i = 0; i < 40; ++i) {
-		subgroup.PushStock(b_g.GetStock(keys[i]));
+		subgroup.PushStock(b_g.GetStock(keys[std::rand() % keys.size()]));
 	}
 	return subgroup;
 }

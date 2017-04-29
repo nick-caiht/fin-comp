@@ -26,19 +26,7 @@ public:
 	const int GetResampleTimes() const;
 	bool SetThreshold(double t_h);
 	bool SetResampleTimes(int r_t);
-	Group Sampling(Group& b_g);     //Random 40
+	Group Sampling(const Group& b_g);     //Random 40
 	bool UpdateGroups(const std::map<std::string, Stock>& allstocks_);
-	/*{
-		with threshold
-			push stocks into big_group 0, 1, 2
-	}*/
 	bool DoExperiment();
-	/*{
-		for (i = 0; i < resamlple_times; ++i) {
-			Generate SubGroups of 40 by Sampling()
-				SubGroup.Compute()
-				update AAR_avg & CAAR_avg
-		}
-	}*/
 };
-
