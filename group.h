@@ -3,7 +3,7 @@
 #include<map>
 #include<string>
 #include<vector>
-#include"Equity.h"
+#include"equity.h"
 
 class Group {
 private:
