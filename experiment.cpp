@@ -1,4 +1,4 @@
-#include "Experiment.h"
+#include "experiment.h"
 
 Experiment::Experiment() {
 }
