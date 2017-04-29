@@ -1,20 +1,20 @@
-#include "Group.h"
+#include "group.h"
 #include <vector>
-Group::Group() {
 
+Group::Group() {
 }
 
 Group::~Group() {
 }
 
-Group::Group(const Group& g_p) :stocks(g_p.stocks), map_keys(g_p.map_keys), AAR(g_p.AAR), CAAR(g_p.CAAR){
+Group::Group(const Group& g_p) :stocks(g_p.stocks), map_keys(g_p.map_keys), AAR(g_p.AAR), CAAR(g_p.CAAR) {
 }
 
-const std::vector<double>& Group::GetAAR() {
+const std::vector<double>& Group::GetAAR() const {
 	return AAR;
 }
 
-const std::vector<double>& Group::GetCAAR() {
+const std::vector<double>& Group::GetCAAR() const {
 	return CAAR;
 }
 
