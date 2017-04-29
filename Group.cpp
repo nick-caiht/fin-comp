@@ -37,8 +37,7 @@ const Stock& Group::GetStock(std::string ticker) const {
 	//future improvment: try catch
 }
 
-//how to get ETF? pass by reference? Compute(ETF &SPY) 
-bool Group::Compute(ETF& SPY) {
+bool Group::Compute(const ETF& SPY) {
 	//for each stock
 	for (int count = 0, auto i = stocks.begin(); i != stocks.end(); ++i, ++count) {
 		//Slice a sub-SPY with corresponding dates
