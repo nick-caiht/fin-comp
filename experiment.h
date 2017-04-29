@@ -6,7 +6,7 @@
 #include <time.h>
 #include <algorithm>
 #include "ExcelDriver\VectorsAndMatrices\NumericMatrix.hpp"
-#include "Group.h"
+#include "group.h"
 
 class Experiment {
 private:
