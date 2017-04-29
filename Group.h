@@ -21,6 +21,5 @@ public:
 	const std::vector<std::string>& GetMapKeys() const;
 	const int GetSize() const;
 	bool PushStock(const Stock& s);
-	bool Compute();
+	bool Compute(const ETF& SPY);
 };
-
