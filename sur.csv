@@ -1,0 +1,454 @@
+Ticker,Date,Surprise,Year,Month,Day,Security,GICS Sector,GICS Sub Industry,Address of Headquarters,CIK
+A,20160817,4.109589041,2016,7,17,Agilent Technologies Inc,Health Care,Health Care Equipment,Santa Clara; California,1090872
+AAL,20161020,84.21052632,2016,9,20,American Airlines Group,Industrials,Airlines,Fort Worth; Texas,6201
+AAP,20161114,-40.30433086,2016,10,14,Advance Auto Parts,Consumer Discretionary,Automotive Retail,Roanoke; Virginia,1158449
+AAPL,20160726,-35.01144165,2016,6,26,Apple Inc.,Information Technology,Technology Hardware; Storage & Peripherals,Cupertino; California,320193
+ABBV,20161028,-3,2016,9,28,AbbVie,Health Care,Pharmaceuticals,North Chicago; Illinois,1551152
+ABC,20160802,7.586206897,2016,7,2,AmerisourceBergen Corp,Health Care,Health Care Distributors,Chesterbrook; Pennsylvania,1140859
+ABT,20161019,-145.7142857,2016,9,19,Abbott Laboratories,Health Care,Health Care Equipment,North Chicago; Illinois,1800
+ACN,20160623,-8.796895213,2016,5,23,Accenture plc,Information Technology,IT Consulting & Other Services,Dublin; Ireland,1467373
+ADBE,20160920,-19.76225854,2016,8,20,Adobe Systems Inc,Information Technology,Application Software,San Jose; California,796343
+ADI,20160817,6.017191977,2016,7,17,Analog Devices; Inc.,Information Technology,Semiconductors,Norwood; Massachusetts,6281
+ADM,20161101,-19.88950276,2016,10,1,Archer-Daniels-Midland Co,Consumer Staples,Agricultural Products,Decatur; Illinois,7084
+ADP,20160428,-9.791827294,2016,3,28,Automatic Data Processing,Information Technology,Internet Software & Services,Roseland; New Jersey,8670
+ADS,20161020,19.7301855,2016,9,20,Alliance Data Systems,Information Technology,Data Processing & Outsourced Services,Plano; Texas,1101215
+ADSK,20151119,-33.56643357,2015,10,19,Autodesk Inc,Information Technology,Application Software,San Rafael; California,769397
+AEE,20161104,347.0588235,2016,10,4,Ameren Corp,Utilities,Multi-Utilities,St. Louis; Missouri,1002910
+AEP,20161101,-258.3756345,2016,10,1,American Electric Power,Utilities,Electric Utilities,Columbus; Ohio,4904
+AES,20161104,2.362204724,2016,10,4,AES Corp,Utilities,Independent Power Producers & Energy Traders,Arlington; Virginia,874761
+AET,20161027,-25.50394391,2016,9,27,Aetna Inc,Health Care,Managed Health Care,Hartford; Connecticut,1122304
+AFL,20161027,-10.52631579,2016,9,27,AFLAC Inc,Financials,Life & Health Insurance,Columbus; Georgia,4977
+AIG,20161102,-70.67463106,2016,10,2,American International Group; Inc.,Financials,Property & Casualty Insurance,New York; New York,5272
+AIV,20161027,-36.36363636,2016,9,27,Apartment Investment & Mgmt,Real Estate,Residential REITs,Denver; Colorado,922864
+AIZ,20161025,23.4375,2016,9,25,Assurant Inc,Financials,Multi-line Insurance,New York; New York,1267238
+AJG,20161027,130,2016,9,27,Arthur J. Gallagher & Co.,Financials,Insurance Brokers,Itasca; Illinois,354190
+AKAM,20161025,-6.113537118,2016,9,25,Akamai Technologies Inc,Information Technology,Internet Software & Services,Cambridge; Massachusetts,1086222
+ALB,20161107,-7.646474677,2016,10,7,Albemarle Corp,Materials,Specialty Chemicals,Baton Rouge; Louisiana,915913
+ALK,20161020,96.20853081,2016,9,20,Alaska Air Group Inc,Industrials,Airlines,Seattle; Washington,766421
+ALL,20161102,-14.60234681,2016,10,2,Allstate Corp,Financials,Property & Casualty Insurance,Northfield Township; Illinois,899051
+ALLE,20161027,-97.14285714,2016,9,27,Allegion,Industrials,Building Products,Dublin; Ireland,1579241
+ALXN,20161027,-36.36363636,2016,9,27,Alexion Pharmaceuticals,Health Care,Biotechnology,Cheshire; Connecticut,899866
+AMAT,20160818,2.908277405,2016,7,18,Applied Materials Inc,Information Technology,Semiconductor Equipment,Santa Clara; California,6951
+AME,20161101,-1.754385965,2016,10,1,AMETEK Inc,Industrials,Electrical Components & Equipment,Berwyn; Pennsylvania,1037868
+AMGN,20161027,9.16496945,2016,9,27,Amgen Inc,Health Care,Biotechnology,Thousand Oaks; California,318154
+AMP,20161025,-49.41634241,2016,9,25,Ameriprise Financial,Financials,Asset Management & Custody Banks,Minneapolis; Minnesota,820027
+AMT,20161027,0.917431193,2016,9,27,American Tower Corp A,Real Estate,Specialized REITs,Boston; Massachusetts,1053507
+AMZN,20161027,-77.3716275,2016,9,27,Amazon.com Inc,Consumer Discretionary,Internet & Direct Marketing Retail,Seattle; Washington,1018724
+AN,20161028,0.286532951,2016,9,28,AutoNation Inc,Consumer Discretionary,Specialty Stores,Fort Lauderdale; Florida,350698
+ANTM,20161102,-34.28571429,2016,10,2,Anthem Inc.,Health Care,Managed Health Care,Indianapolis; Indiana,1156039
+AON,20161028,-12.24018476,2016,9,28,Aon plc,Financials,Insurance Brokers,London; United Kingdom,315293
+APA,20161103,-584.8484848,2016,10,3,Apache Corporation,Energy,Oil & Gas Exploration & Production,Houston; Texas,6769
+APC,20161031,1010.344828,2016,9,31,Anadarko Petroleum Corp,Energy,Oil & Gas Exploration & Production,The Woodlands; Texas,773910
+APD,20160728,-22.58536585,2016,6,28,Air Products & Chemicals Inc,Materials,Industrial Gases,Allentown; Pennsylvania,2969
+APH,20161019,7.575757576,2016,9,19,Amphenol Corp,Information Technology,Electronic Components,Wallingford; Connecticut,820313
+ATVI,20161103,-3.703703704,2016,10,3,Activision Blizzard,Information Technology,Home Entertainment Software,Santa Monica; California,718877
+AVB,20161024,129.2035398,2016,9,24,AvalonBay Communities; Inc.,Real Estate,Residential REITs,Arlington; Virginia[3],915912
+AVGO,20160901,-174.7663551,2016,8,1,Broadcom,Information Technology,Semiconductors,San Jose; California,1441634
+AVY,20161026,-4.854368932,2016,9,26,Avery Dennison Corp,Materials,Paper Packaging,Glendale; California,8818
+AWK,20161102,59.30902111,2016,10,2,American Water Works Company Inc,Utilities,Water Utilities,Voorhees; New Jersey,1410636
+AXP,20161019,-10.51454139,2016,9,19,American Express Co,Financials,Consumer Finance,New York; New York,4962
+AYI,20160629,-22.37023427,2016,5,29,Acuity Brands Inc,Industrials,Electrical Components & Equipment,Atlanta; Georgia,1144215
+AZO,20160524,-11.72131148,2016,4,24,AutoZone Inc,Consumer Discretionary,Specialty Stores,Memphis; Tennessee,866787
+BA,20161026,65.13761468,2016,9,26,Boeing Company,Industrials,Aerospace & Defense,Chicago; Illinois,12927
+BAC,20161017,-2.14797136,2016,9,17,Bank of America Corp,Financials,Diversified Banks,Charlotte; North Carolina,70858
+BAX,20161025,-34.28571429,2016,9,25,Baxter International Inc.,Health Care,Health Care Equipment,Deerfield; Illinois,10456
+BBT,20161019,-0.815217391,2016,9,19,BB&T Corporation,Financials,Regional Banks,Winston-Salem; North Carolina,92230
+BBY,20151119,-17.77777778,2015,10,19,Best Buy Co. Inc.,Consumer Discretionary,Computer & Electronics Retail,Richfield; Minnesota,764478
+BCR,20161025,-51.15384615,2016,9,25,Bard (C.R.) Inc.,Health Care,Health Care Equipment,Murray Hill; New Jersey,9892
+BDX,20160804,-12.83292978,2016,7,4,Becton Dickinson,Health Care,Health Care Equipment,Franklin Lakes; New Jersey,10795
+BEN,20160728,15.44227886,2016,6,28,Franklin Resources,Financials,Asset Management & Custody Banks,San Mateo; California,38777
+BHI,20161025,189.8550725,2016,9,25,Baker Hughes Inc,Energy,Oil & Gas Equipment & Services,Houston; Texas,808362
+BIIB,20161026,-2.94663095,2016,9,26,BIOGEN IDEC Inc.,Health Care,Biotechnology,Weston; Massachusetts,875045
+BK,20161020,13.92405063,2016,9,20,The Bank of New York Mellon Corp.,Financials,Asset Management & Custody Banks,New York; New York,1390777
+BLK,20161018,-4.363636364,2016,9,18,BlackRock,Financials,Asset Management & Custody Banks,New York; New York,1364742
+BLL,20161103,-100,2016,10,3,Ball Corp,Materials,Metal & Glass Containers,Broomfield; Colorado,9389
+BSX,20161026,-24.77876106,2016,9,26,Boston Scientific,Health Care,Health Care Equipment,Marlborough; Massachusetts[4],885725
+BWA,20161027,-54.80880649,2016,9,27,BorgWarner,Consumer Discretionary,Auto Parts & Equipment,Auburn Hills; Michigan,908255
+BXP,20161025,-27.53623188,2016,9,25,Boston Properties,Real Estate,Office REITs,Boston; Massachusetts,1037540
+C,20161014,-7.943578322,2016,9,14,Citigroup Inc.,Financials,Diversified Banks,New York; New York,831001
+CA,20160126,27.45098039,2016,0,26,CA; Inc.,Information Technology,Systems Software,Islandia; New York,356028
+CAG,20160407,-35.9375,2016,3,7,ConAgra Foods Inc.,Consumer Staples,Packaged Foods & Meats,Omaha; Nebraska,23217
+CAH,20160428,-13.97058824,2016,3,28,Cardinal Health Inc.,Health Care,Health Care Distributors,Dublin; Ohio,721371
+CAT,20161025,-217.9361179,2016,9,25,Caterpillar Inc.,Industrials,Construction & Farm Machinery & Heavy Trucks,Peoria; Illinois,18230
+CB,20161025,22.81449893,2016,9,25,Chubb Limited,Financials,Property & Casualty Insurance,Zurich; Switzerland,896159
+CBOE,20161028,-24.01215805,2016,9,28,CBOE Holdings,Financials,Financial Exchanges & Data,Chicago; Illinois,1374310
+CBS,20161103,16.8699187,2016,10,3,CBS Corp.,Consumer Discretionary,Broadcasting & Cable TV,New York; New York,813828
+CCI,20161020,-29.72972973,2016,9,20,Crown Castle International Corp.,Real Estate,Specialized REITs,Houston; Texas,1051470
+CCL,20160926,271.1538462,2016,8,26,Carnival Corp.,Consumer Discretionary,Hotels; Resorts & Cruise Lines,Miami; Florida,815097
+CELG,20161027,-83.10539019,2016,9,27,Celgene Corp.,Health Care,Biotechnology,Summit; New Jersey,816284
+CERN,20161101,-4.6692607,2016,10,1,Cerner,Health Care,Health Care Technology,North Kansas City; Missouri,804753
+CF,20161102,-187.8378378,2016,10,2,CF Industries Holdings Inc,Materials,Fertilizers & Agricultural Chemicals,Deerfield; Illinois,1324404
+CFG,20161021,20.95032397,2016,9,21,Citizens Financial Group,Financials,Regional Banks,Providence; Rhode Island,759944
+CHD,20161103,0.858369099,2016,10,3,Church & Dwight,Consumer Staples,Household Products,Ewing; New Jersey,313927
+CHK,20161103,-1011.242604,2016,10,3,Chesapeake Energy,Energy,Oil & Gas Exploration & Production,Oklahoma City; Oklahoma,895126
+CHRW,20161025,5.50996483,2016,9,25,C. H. Robinson Worldwide,Industrials,Air Freight & Logistics,Eden Prairie; Minnesota,1043277
+CI,20161103,-22.2614841,2016,10,3,CIGNA Corp.,Health Care,Managed Health Care,Philadelphia; Pennsylvania,701221
+CINF,20161025,30.12048193,2016,9,25,Cincinnati Financial,Financials,Property & Casualty Insurance,Fairfield; Ohio,20286
+CL,20161027,18.18181818,2016,9,27,Colgate-Palmolive,Consumer Staples,Household Products,New York; New York,21665
+CLX,20160503,2.023608769,2016,4,3,The Clorox Company,Consumer Staples,Household Products,Oakland; California,21076
+CMA,20161018,0,2016,9,18,Comerica Inc.,Financials,Diversified Banks,Dallas; Texas,28412
+CME,20161027,19.82758621,2016,9,27,CME Group Inc.,Financials,Financial Exchanges & Data,Chicago; Illinois,1156375
+CMG,20161025,-82.44473342,2016,9,25,Chipotle Mexican Grill,Consumer Discretionary,Restaurants,Denver; Colorado,1058090
+CMI,20161101,-7.626208378,2016,10,1,Cummins Inc.,Industrials,Industrial Machinery,Columbus; Indiana,26172
+CMS,20161027,-27.95698925,2016,9,27,CMS Energy,Utilities,Multi-Utilities,Jackson; Michigan,811156
+CNC,20161025,-13.13340228,2016,9,25,Centene Corporation,Health Care,Managed Health Care,St Louis; Missouri,1071739
+CNP,20161104,7.894736842,2016,10,4,CenterPoint Energy,Utilities,Multi-Utilities,Houston; Texas,1130310
+COF,20161025,-5.70719603,2016,9,25,Capital One Financial,Financials,Consumer Finance,Tysons Corner; Virginia,927628
+COG,20161028,-118.018018,2016,9,28,Cabot Oil & Gas,Energy,Oil & Gas Exploration & Production,Houston; Texas,858470
+COH,20160426,-15.43340381,2016,3,26,Coach Inc.,Consumer Discretionary,Apparel; Accessories & Luxury Goods,New York; New York,1116132
+COL,20160725,14.78873239,2016,6,25,Rockwell Collins,Industrials,Aerospace & Defense,Cedar Rapids; Iowa,1137411
+COO,20160901,-15.36643026,2016,8,1,The Cooper Companies,Health Care,Health Care Supplies,Pleasanton; California,711404
+COP,20161027,-524.2424242,2016,9,27,ConocoPhillips,Energy,Oil & Gas Exploration & Production,Houston; Texas,1163165
+COST,20160525,-11.11111111,2016,4,25,Costco Co.,Consumer Staples,Hypermarkets & Super Centers,Issaquah; Washington,909832
+COTY,20160503,-134.0425532,2016,4,3,Coty; Inc,Consumer Staples,Personal Products,New York; NY,1024305
+CPB,20160520,-12.85081241,2016,4,20,Campbell Soup,Consumer Staples,Packaged Foods & Meats,Camden; New Jersey,16732
+CRM,20151118,-133.3333333,2015,10,18,Salesforce.com,Information Technology,Internet Software & Services,San Francisco; California,1108524
+CSCO,20160518,-11.53846154,2016,4,18,Cisco Systems,Information Technology,Communications Equipment,San Jose; California,858877
+CSRA,20160210,-42,2016,1,10,CSRA Inc.,Information Technology,IT Consulting & Other Services,Falls Church; Virginia,1646383
+CSX,20161012,17.93611794,2016,9,12,CSX Corp.,Industrials,Railroads,Jacksonville; Florida,277948
+CTAS,20160322,-8.188976378,2016,2,22,Cintas Corporation,Industrials,Diversified Support Services,Mason; Ohio,723254
+CTL,20161031,-28.20512821,2016,9,31,CenturyLink Inc,Telecommunications Services,Integrated Telecommunications Services,Monroe; Louisiana,18926
+CTSH,20161107,-5.071521456,2016,10,7,Cognizant Technology Solutions,Information Technology,IT Consulting & Other Services,Teaneck; New Jersey,1058290
+CTXS,20161019,-3.225806452,2016,9,19,Citrix Systems,Information Technology,Internet Software & Services,Fort Lauderdale; Florida,877890
+CVS,20161108,11.37071651,2016,10,8,CVS Health,Consumer Staples,Drug Retail,Woonsocket; Rhode Island,64803
+CVX,20161028,-30.6122449,2016,9,28,Chevron Corp.,Energy,Integrated Oil & Gas,San Ramon; California,93410
+CXO,20161108,435.2112676,2016,10,8,Concho Resources,Energy,Oil & Gas Exploration & Production,Midland; Texas,1358071
+D,20161031,13.75387797,2016,9,31,Dominion Resources,Utilities,Electric Utilities,Richmond; Virginia,715957
+DAL,20161013,-0.412492634,2016,9,13,Delta Air Lines,Industrials,Airlines,Atlanta; Georgia,27904
+DD,20161025,-99.35897436,2016,9,25,Du Pont (E.I.),Materials,Diversified Chemicals,Wilmington; Delaware,30554
+DE,20160819,9.929078014,2016,7,19,Deere & Co.,Industrials,Construction & Farm Machinery & Heavy Trucks,Moline; Illinois,315189
+DFS,20161025,6.412005457,2016,9,25,Discover Financial Services,Financials,Consumer Finance,Riverwoods; Illinois,1393612
+DG,20151203,-22.86995516,2015,11,3,Dollar General,Consumer Discretionary,General Merchandise Stores,Goodlettsville; Tennessee,29534
+DGX,20161020,18.06167401,2016,9,20,Quest Diagnostics,Health Care,Health Care Services,Madison; New Jersey,1022079
+DHI,20160721,20.87912088,2016,6,21,D. R. Horton,Consumer Discretionary,Homebuilding,Fort Worth; Texas,882184
+DHR,20161020,-15.55555556,2016,9,20,Danaher Corp.,Health Care,Health Care Equipment,Washington; D.C.,313616
+DIS,20160809,6.21242485,2016,7,9,The Walt Disney Company,Consumer Discretionary,Broadcasting & Cable TV,Burbank; California,1001039
+DISCA,20161101,-29.41176471,2016,10,1,Discovery Communications-A,Consumer Discretionary,Cable & Satellite,Silver Spring; Maryland,1437107
+DISCK,20161101,-29.41176471,2016,10,1,Discovery Communications-C,Consumer Discretionary,Cable & Satellite,Silver Spring; Maryland,1437107
+DLPH,20161102,-32.70440252,2016,10,2,Delphi Automotive,Consumer Discretionary,Auto Parts & Equipment,Gillingham; Kent; United Kingdom,1521332
+DLR,20161027,252.1126761,2016,9,27,Digital Realty Trust,Real Estate,Specialized REITs,San Francisco; California,1297996
+DLTR,20151124,-38.05309735,2015,10,24,Dollar Tree,Consumer Discretionary,General Merchandise Stores,Chesapeake; Virginia,935703
+DOV,20161019,13.69863014,2016,9,19,Dover Corp.,Industrials,Industrial Machinery,Downers Grove; Illinois,29905
+DOW,20161027,-33.68421053,2016,9,27,Dow Chemical,Materials,Diversified Chemicals,Midland; Michigan,29915
+DPS,20161027,27.97619048,2016,9,27,Dr Pepper Snapple Group,Consumer Staples,Soft Drinks,Plano; Texas,1418135
+DRI,20160405,-27.5862069,2016,3,5,Darden Restaurants,Consumer Discretionary,Restaurants,Orlando; Florida,940944
+DTE,20161026,27.02702703,2016,9,26,DTE Energy Co.,Utilities,Multi-Utilities,Detroit; Michigan,936340
+DVA,20161102,185.4188211,2016,10,2,DaVita Inc.,Health Care,Health Care Facilities,Denver; Colorado,927066
+DVN,20161101,545.0511945,2016,10,1,Devon Energy Corp.,Energy,Oil & Gas Exploration & Production,Oklahoma City; Oklahoma,1090012
+EA,20160128,-109.0322581,2016,0,28,Electronic Arts,Information Technology,Home Entertainment Software,Redwood City; California,712515
+EBAY,20161019,-20,2016,9,19,eBay Inc.,Information Technology,Internet Software & Services,San Jose; California,1065088
+ECL,20161101,44.64692483,2016,10,1,Ecolab Inc.,Materials,Specialty Chemicals,St. Paul; Minnesota,31462
+ED,20161103,14.08450704,2016,10,3,Consolidated Edison,Utilities,Electric Utilities,New York; New York,1047862
+EFX,20161026,1.489757914,2016,9,26,Equifax Inc.,Industrials,Research & Consulting Services,Atlanta; Georgia,33185
+EIX,20161101,40.64230343,2016,10,1,Edison Int'l,Utilities,Electric Utilities,Rosemead; California,827052
+EL,20160503,0,2016,4,3,Estee Lauder Cos.,Consumer Staples,Personal Products,New York; New York,1001250
+EMN,20161027,-11.36363636,2016,9,27,Eastman Chemical,Materials,Diversified Chemicals,Kingsport; Tennessee,915389
+EMR,20160802,10.44776119,2016,7,2,Emerson Electric Company,Industrials,Electrical Components & Equipment,Ferguson; Missouri,32604
+EOG,20161103,-1350,2016,10,3,EOG Resources,Energy,Oil & Gas Exploration & Production,Houston; Texas,821189
+EQIX,20161102,-37.03703704,2016,10,2,Equinix,Real Estate,Specialized REITs,Redwood City; California,1101239
+EQT,20161027,-136.4963504,2016,9,27,EQT Corporation,Energy,Oil & Gas Exploration & Production,Pittsburgh; Pennsylvania,33213
+ES,20161101,0,2016,10,1,Eversource Energy,Utilities,Multi-Utilities,Springfield; Massachusetts,72741
+ESRX,20161025,22.86324786,2016,9,25,Express Scripts,Health Care,Health Care Distributors,Cool Valley; Missouri,1532063
+ESS,20161027,-0.99009901,2016,9,27,Essex Property Trust; Inc.,Real Estate,Residential REITs,Palo Alto; California,920522
+ETFC,20161020,26.55086849,2016,9,20,E*Trade,Financials,Investment Banking & Brokerage,New York; New York,1015780
+ETN,20161101,21.05263158,2016,10,1,Eaton Corporation,Industrials,Electrical Components & Equipment,Dublin; Ireland,1551182
+ETR,20161025,75.6097561,2016,9,25,Entergy Corp.,Utilities,Electric Utilities,New Orleans; Louisiana,65984
+EW,20161025,-20.14742015,2016,9,25,Edwards Lifesciences,Health Care,Health Care Equipment,Irvine; California,1099800
+EXC,20161026,-28.76344086,2016,9,26,Exelon Corp.,Utilities,Multi-Utilities,Chicago; Illinois,1109357
+EXPD,20161108,3.50877193,2016,10,8,Expeditors Int'l,Industrials,Air Freight & Logistics,Seattle; Washington,746515
+EXPE,20161027,-1621.008403,2016,9,27,Expedia Inc.,Consumer Discretionary,Internet & Direct Marketing Retail,Bellevue; Washington,1324424
+EXR,20161026,55,2016,9,26,Extra Space Storage,Real Estate,Specialized REITs,Salt Lake City; UT,1289490
+F,20161027,-47.25274725,2016,9,27,Ford Motor,Consumer Discretionary,Automobile Manufacturers,Dearborn; Michigan,37996
+FAST,20161011,-8.333333333,2016,9,11,Fastenal Co,Industrials,Building Products,Winona; Minnesota,815556
+FB,20161102,4.72541507,2016,10,2,Facebook,Information Technology,Internet Software & Services,Menlo Park; California,1326801
+FBHS,20161026,47.09864603,2016,9,26,Fortune Brands Home & Security,Industrials,Building Products,Deerfield; Illinois,1519751
+FCX,20161025,-26.54166667,2016,9,25,Freeport-McMoRan Inc.,Materials,Copper,Phoenix; Arizona,831259
+FDX,20160316,-47.27793696,2016,2,16,FedEx Corporation,Industrials,Air Freight & Logistics,Memphis; Tennessee,1048911
+FE,20161104,15.58441558,2016,10,4,FirstEnergy Corp,Utilities,Electric Utilities,Akron; Ohio,1031296
+FFIV,20160720,-1.932712956,2016,6,20,F5 Networks,Information Technology,Communications Equipment,Seattle; Washington,1048695
+FIS,20161101,-6.666666667,2016,10,1,Fidelity National Information Services,Information Technology,Internet Software & Services,Jacksonville; Florida,1136893
+FISV,20161026,-7.957813998,2016,9,26,Fiserv Inc,Information Technology,Internet Software & Services,Brookfield; Wisconsin,798354
+FITB,20161020,68.83116883,2016,9,20,Fifth Third Bancorp,Financials,Regional Banks,Cincinnati; Ohio,35527
+FL,20151120,-62.98701299,2015,10,20,Foot Locker Inc,Consumer Discretionary,Apparel Retail,New York; New York,850209
+FLIR,20161026,21.12676056,2016,9,26,FLIR Systems,Information Technology,Electronic Equipment & Instruments,Wilsonville; Oregon,354908
+FLR,20161103,-96.45390071,2016,10,3,Fluor Corp.,Industrials,Diversified Commercial Services,Irving; Texas,1124198
+FLS,20161027,-135.5555556,2016,9,27,Flowserve Corporation,Industrials,Industrial Machinery,Irving; Texas,30625
+FMC,20161102,-12.60744986,2016,10,2,FMC Corporation,Materials,Fertilizers & Agricultural Chemicals,Philadelphia; Pennsylvania,37785
+FOX,20160504,-21.42857143,2016,4,4,Twenty-First Century Fox Class B,Consumer Discretionary,Publishing,New York; New York,1308161
+FOXA,20160504,-21.42857143,2016,4,4,Twenty-First Century Fox Class A,Consumer Discretionary,Publishing,New York; New York,1308161
+FRT,20161102,1.234567901,2016,10,2,Federal Realty Investment Trust,Real Estate,Retail REITs,Rockville; Maryland,34903
+FTI,20161019,-12.28070175,2016,9,19,FMC Technologies Inc.,Energy,Oil & Gas Equipment & Services,Houston; Texas,1135152
+FTV,20161027,18.18181818,2016,9,27,Fortive Corp,Industrials,Industrial Machinery,Everett; Washington,1659166
+GD,20161026,1.431492843,2016,9,26,General Dynamics,Industrials,Aerospace & Defense,Falls Church; Virginia,40533
+GGP,20161031,311.7647059,2016,9,31,General Growth Properties Inc.,Real Estate,Retail REITs,Chicago; Illinois,895648
+GILD,20161101,17.45283019,2016,10,1,Gilead Sciences,Health Care,Biotechnology,Foster City; California,882095
+GIS,20160323,-12.33283804,2016,2,23,General Mills,Consumer Staples,Packaged Foods & Meats,Golden Valley; Minnesota,40704
+GLW,20161025,-17.46031746,2016,9,25,Corning Inc.,Information Technology,Electronic Components,Corning; New York,24741
+GM,20161025,39.35075218,2016,9,25,General Motors,Consumer Discretionary,Automobile Manufacturers,Detroit; Michigan,1467858
+GOOGL,20161027,-1.346494214,2016,9,27,Alphabet Inc Class A,Information Technology,Internet Software & Services,Mountain View; California,1652044
+GPS,20151119,-15.27777778,2015,10,19,Gap (The),Consumer Discretionary,Apparel Retail,San Francisco; California,39911
+GRMN,20161026,40.42553191,2016,9,26,Garmin Ltd.,Consumer Discretionary,Consumer Electronics,Schaffhausen; Switzerland,1121788
+GS,20161018,27.4151436,2016,9,18,Goldman Sachs Group,Financials,Investment Banking & Brokerage,New York; New York,886982
+GWW,20161018,-2.555910543,2016,9,18,Grainger (W.W.) Inc.,Industrials,Industrial Materials,Lake Forest; Illinois,277135
+HAL,20161019,-61.53846154,2016,9,19,Halliburton Co.,Energy,Oil & Gas Equipment & Services,Houston; Texas,45012
+HAS,20161017,497.0588235,2016,9,17,Hasbro Inc.,Consumer Discretionary,Leisure Products,Pawtucket; Rhode Island,46080
+HBAN,20161026,-49.7716895,2016,9,26,Huntington Bancshares,Financials,Regional Banks,Columbus; Ohio,49196
+HBI,20161027,41.95583596,2016,9,27,Hanesbrands Inc,Consumer Discretionary,Apparel; Accessories & Luxury Goods,Winston-Salem; North Carolina,1359841
+HCA,20161027,-9.812819058,2016,9,27,HCA Holdings,Health Care,Health Care Facilities,Nashville; Tennessee,860730
+HCN,20161102,74.48405253,2016,10,2,Welltower Inc.,Real Estate,Health Care REITs,Toledo; Ohio,766704
+HCP,20161101,-17.94871795,2016,10,1,HCP Inc.,Real Estate,Health Care REITs,Long Beach; California,765880
+HD,20151117,-11.76470588,2015,10,17,Home Depot,Consumer Discretionary,Home Improvement Retail,Atlanta; Georgia,354950
+HES,20161026,38.61386139,2016,9,26,Hess Corporation,Energy,Integrated Oil & Gas,New York; New York,4447
+HIG,20161027,6.666666667,2016,9,27,Hartford Financial Svc.Gp.,Financials,Property & Casualty Insurance,Hartford; Connecticut,874766
+HOG,20161018,-60.68796069,2016,9,18,Harley-Davidson,Consumer Discretionary,Motorcycle Manufacturers,Milwaukee; Wisconsin,793952
+HOLX,20160727,5.633802817,2016,6,27,Hologic,Health Care,Health Care Equipment,Marlborough; Massachusetts,859737
+HP,20160728,-39.39393939,2016,6,28,Helmerich & Payne,Energy,Oil & Gas Drilling,Tulsa; Oklahoma[5],46765
+HPE,20160907,425.8964143,2016,8,7,Hewlett Packard Enterprise,Information Technology,Technology Hardware; Storage & Peripherals,Palo Alto; California,1645590
+HPQ,20160824,22.5,2016,7,24,HP Inc.,Information Technology,Technology Hardware; Storage & Peripherals,Palo Alto; California,47217
+HRB,20160303,-109.6045198,2016,2,3,Block H&R,Financials,Consumer Finance,Kansas City; Missouri,12659
+HRL,20160818,-10.44776119,2016,7,18,Hormel Foods Corp.,Consumer Staples,Packaged Foods & Meats,Austin; Minnesota,48465
+HRS,20160503,-12.08791209,2016,4,3,Harris Corporation,Information Technology,Communications Equipment,Melbourne; Florida,202058
+HSIC,20161102,2.322661645,2016,10,2,Henry Schein,Health Care,Health Care Distributors,Melville; New York,1000228
+HST,20161102,-53.33333333,2016,10,2,Host Hotels & Resorts,Real Estate,Hotel & Resort REITs,Bethesda; Maryland,1070750
+HSY,20161028,-12.29045643,2016,9,28,The Hershey Company,Consumer Staples,Packaged Foods & Meats,Hershey; Pennsylvania,47111
+HUM,20161104,31.97519929,2016,10,4,Humana Inc.,Health Care,Managed Health Care,Louisville; Kentucky,49071
+IBM,20161017,-2.295081967,2016,9,17,International Business Machines,Information Technology,IT Consulting & Other Services,Armonk; New York,51143
+ICE,20161101,-15.00742942,2016,10,1,Intercontinental Exchange,Financials,Financial Exchanges & Data,Atlanta; Georgia,1571949
+IDXX,20161101,3.678929766,2016,10,1,IDEXX Laboratories,Health Care,Health Care Equipment,Westbrook; Maine,874716
+IFF,20161107,-26.55737705,2016,10,7,Intl Flavors & Fragrances,Materials,Specialty Chemicals,New York; New York,51253
+ILMN,20161101,4.567307692,2016,10,1,Illumina Inc,Health Care,Life Sciences Tools & Services,San Diego; California,1110803
+INCY,20161101,-65.88868941,2016,10,1,Incyte,Health Care,Biotechnology,Wilmington; Delaware,879169
+INTC,20161018,18.15068493,2016,9,18,Intel Corp.,Information Technology,Semiconductors,Santa Clara; California,50863
+INTU,20160524,-10.3410341,2016,4,24,Intuit Inc.,Information Technology,Internet Software & Services,Mountain View; California,896878
+IP,20161027,-12.17798595,2016,9,27,International Paper,Materials,Paper Packaging,Memphis; Tennessee,51434
+IPG,20161021,700,2016,9,21,Interpublic Group,Consumer Discretionary,Advertising,New York; New York,51644
+IR,20161026,145.1499118,2016,9,26,Ingersoll-Rand PLC,Industrials,Industrial Machinery,Dublin; Ireland,1466258
+IRM,20161101,-92.09486166,2016,10,1,Iron Mountain Incorporated,Real Estate,Specialized REITs,Boston; Massachusetts,1020569
+ISRG,20161018,3.549141966,2016,9,18,Intuitive Surgical Inc.,Health Care,Health Care Equipment,Sunnyvale; California,1035267
+ITW,20161020,2.389078498,2016,9,20,Illinois Tool Works,Industrials,Industrial Machinery,Glenview; Illinois,49826
+IVZ,20161027,-4.918032787,2016,9,27,Invesco Ltd.,Financials,Asset Management & Custody Banks,Atlanta; Georgia,914208
+JBHT,20161017,-6.730769231,2016,9,17,J. B. Hunt Transport Services,Industrials,Trucking,Lowell; Arkansas,728535
+JEC,20160809,-25.97402597,2016,7,9,Jacobs Engineering Group,Industrials,Construction & Engineering,Pasadena; California,52988
+JNJ,20161018,-15.46961326,2016,9,18,Johnson & Johnson,Health Care,Health Care Equipment,New Brunswick; New Jersey,200406
+JNPR,20161025,43.31210191,2016,9,25,Juniper Networks,Information Technology,Communications Equipment,Sunnyvale; California,1043604
+JPM,20161014,-0.12642225,2016,9,14,JPMorgan Chase & Co.,Financials,Diversified Banks,New York; New York,19617
+JWN,20151112,-50.76201641,2015,10,12,Nordstrom,Consumer Discretionary,Department Stores,Seattle; Washington,72333
+K,20161101,-20.77294686,2016,10,1,Kellogg Co.,Consumer Staples,Packaged Foods & Meats,Battle Creek; Michigan,55067
+KEY,20161025,-29.5154185,2016,9,25,KeyCorp,Financials,Regional Banks,Cleveland; Ohio,91576
+KHC,20161103,-27.44479495,2016,10,3,Kraft Heinz Co,Consumer Staples,Packaged Foods & Meats,Pittsburgh; Pennsylvania,1545158
+KIM,20161027,-176.4705882,2016,9,27,Kimco Realty,Real Estate,Retail REITs,New Hyde Park; New York,879101
+KLAC,20160426,-4.027420737,2016,3,26,KLA-Tencor Corp.,Information Technology,Semiconductor Equipment,Milpitas; California,319201
+KMB,20161024,-5.177791641,2016,9,24,Kimberly-Clark,Consumer Staples,Household Products,Irving; Texas,55785
+KMI,20161019,-151.5463918,2016,9,19,Kinder Morgan,Energy,Oil & Gas Storage & Transportation,Houston; Texas,1506307
+KO,20161026,-49.79079498,2016,9,26,Coca Cola Company,Consumer Staples,Soft Drinks,Atlanta; Georgia,21344
+KORS,20160202,59.47843531,2016,1,2,Michael Kors Holdings,Consumer Discretionary,Apparel; Accessories & Luxury Goods,New York; New York,1530721
+KSS,20151112,-17.10526316,2015,10,12,Kohl's Corp.,Consumer Discretionary,General Merchandise Stores,Menomonee Falls; Wisconsin,885639
+KSU,20161018,-8.196721311,2016,9,18,Kansas City Southern,Industrials,Railroads,Kansas City; Missouri,54480
+LB,20151118,-25.67567568,2015,10,18,L Brands Inc.,Consumer Discretionary,Apparel Retail,Columbus; Ohio,701985
+LEG,20161027,1.515151515,2016,9,27,Leggett & Platt,Consumer Discretionary,Home Furnishings,Carthage; Missouri,58492
+LEN,20160920,0.697906281,2016,8,20,Lennar Corp.,Consumer Discretionary,Homebuilding,Miami; Florida,920760
+LH,20161026,-10.28331584,2016,9,26,Laboratory Corp. of America Holding,Health Care,Health Care Services,Burlington; North Carolina,920148
+LKQ,20161027,-13.60691145,2016,9,27,LKQ Corporation,Consumer Discretionary,Distributors,Chicago; Illinois,1065696
+LMT,20161025,30.18391634,2016,9,25,Lockheed Martin Corp.,Industrials,Aerospace & Defense,Bethesda; Maryland,936468
+LNC,20161102,27.38853503,2016,10,2,Lincoln National,Financials,Multi-line Insurance,Radnor; Pennsylvania,59558
+LNT,20161103,26.66666667,2016,10,3,Alliant Energy Corp,Utilities,Electric Utilities,Madison; Wisconsin,352541
+LOW,20151118,-23.07692308,2015,10,18,Lowe's Cos.,Consumer Discretionary,Home Improvement Retail,Mooresville; North Carolina,60667
+LRCX,20160420,-40.10226443,2016,3,20,Lam Research,Information Technology,Semiconductor Equipment,Fremont; California,707549
+LUV,20161026,-22.78953923,2016,9,26,Southwest Airlines,Industrials,Airlines,Dallas; Texas,92380
+LVLT,20161031,-21.21212121,2016,9,31,Level 3 Communications,Telecommunications Services,Alternative Carriers,Broomfield; Colorado,794323
+LYB,20161101,1.762114537,2016,10,1,LyondellBasell,Materials,Specialty Chemicals,Rotterdam; Netherlands,1489393
+M,20151111,-52.94117647,2015,10,11,Macy's Inc.,Consumer Discretionary,Department Stores,Cincinnati; Ohio,794367
+MA,20161028,9.53346856,2016,9,28,Mastercard Inc.,Information Technology,Internet Software & Services,Harrison; New York,1141391
+MAA,20161027,75,2016,9,27,Mid-America Apartments,Real Estate,Residential REITs,Memphis; Tennessee,912595
+MAC,20161027,-55,2016,9,27,Macerich,Real Estate,Retail REITs,Santa Monica; California,912242
+MAR,20161107,-69.6969697,2016,10,7,Marriott Int'l.,Consumer Discretionary,Hotels; Resorts & Cruise Lines,Bethesda; Maryland,1048286
+MAS,20161025,5.263157895,2016,9,25,Masco Corp.,Industrials,Building Products,Taylor; Michigan,62996
+MAT,20161019,-1071.428571,2016,9,19,Mattel Inc.,Consumer Discretionary,Leisure Products,El Segundo; California,63276
+MCD,20161021,11.85682327,2016,9,21,McDonald's Corp.,Consumer Discretionary,Restaurants,Oak Brook; Illinois,63908
+MCHP,20160203,-53.71900826,2016,1,3,Microchip Technology,Information Technology,Semiconductors,Chandler; Arizona,827054
+MCK,20160127,-17.50380518,2016,0,27,McKesson Corp.,Health Care,Health Care Distributors,San Francisco; California,927653
+MCO,20161021,17.06881144,2016,9,21,Moody's Corp,Financials,Financial Exchanges & Data,New York; New York,1059556
+MDLZ,20161026,-26.77824268,2016,9,26,Mondelez International,Consumer Staples,Packaged Foods & Meats,Northfield; Illinois,1103982
+MDT,20160301,-26.66666667,2016,2,1,Medtronic plc,Health Care,Health Care Equipment,Dublin; Ireland,64670
+MET,20161102,-62.58253852,2016,10,2,MetLife Inc.,Financials,Life & Health Insurance,New York; New York,1099219
+MHK,20161103,30.82761113,2016,10,3,Mohawk Industries,Consumer Discretionary,Home Furnishings,Amsterdam; New York,851968
+MJN,20161027,-14.2550911,2016,9,27,Mead Johnson,Consumer Staples,Packaged Foods & Meats,Glenview; Illinois,1452575
+MKC,20160930,21.95121951,2016,8,30,McCormick & Co.,Consumer Staples,Packaged Foods & Meats,Sparks; Maryland,63754
+MLM,20161101,128.440367,2016,10,1,Martin Marietta Materials,Materials,Construction Materials,Raleigh; North Carolina,916076
+MMC,20161025,-27.29083665,2016,9,25,Marsh & McLennan,Financials,Insurance Brokers,New York; New York,62709
+MMM,20161025,1.895734597,2016,9,25,3M Company,Industrials,Industrial Conglomerates,St. Paul; Minnesota,66740
+MNST,20161103,-5.982905983,2016,10,3,Monster Beverage,Consumer Staples,Soft Drinks,Corona; California,865752
+MO,20161027,-26.60550459,2016,9,27,Altria Group Inc,Consumer Staples,Tobacco,Richmond; Virginia,764180
+MON,20160629,-34.93013972,2016,5,29,Monsanto Co.,Materials,Fertilizers & Agricultural Chemicals,Creve Coeur; Missouri,1110783
+MOS,20161101,-47.36842105,2016,10,1,The Mosaic Company,Materials,Fertilizers & Agricultural Chemicals,Plymouth; Minnesota,1285785
+MPC,20161027,-38.35616438,2016,9,27,Marathon Petroleum,Energy,Oil & Gas Refining & Marketing,Findlay; Ohio,1510295
+MRO,20161102,2200,2016,10,2,Marathon Oil Corp.,Energy,Oil & Gas Exploration & Production,Houston; Texas,101778
+MS,20161019,2.661596958,2016,9,19,Morgan Stanley,Financials,Investment Banking & Brokerage,New York; New York,895421
+MSFT,20160421,-31.18594436,2016,3,21,Microsoft Corp.,Information Technology,Systems Software,Redmond; Washington,789019
+MSI,20161103,182.5,2016,10,3,Motorola Solutions Inc.,Information Technology,Communications Equipment,Schaumburg; Illinois,68505
+MTB,20161019,-1.362141851,2016,9,19,M&T Bank Corp.,Financials,Regional Banks,Buffalo; New York,36270
+MU,20160630,-202.9411765,2016,5,30,Micron Technology,Information Technology,Semiconductors,Boise; Idaho,723125
+MUR,20161026,-827.2727273,2016,9,26,Murphy Oil,Energy,Integrated Oil & Gas,El Dorado; Arkansas,717423
+NAVI,20161018,19.67213115,2016,9,18,Navient,Financials,Consumer Finance,Newark; Delaware,1593538
+NBL,20161101,63.36633663,2016,10,1,Noble Energy Inc,Energy,Oil & Gas Exploration & Production,Houston; Texas,72207
+NDAQ,20161026,-15.84699454,2016,9,26,NASDAQ OMX Group,Financials,Financial Exchanges & Data,New York; New York,1120193
+NEE,20161031,24.61538462,2016,9,31,NextEra Energy,Utilities,Multi-Utilities,Juno Beach; Florida,753308
+NFLX,20161017,-40.59405941,2016,9,17,Netflix Inc.,Information Technology,Internet Software & Services,Los Gatos; California,1065280
+NFX,20161101,-25.69659443,2016,10,1,Newfield Exploration Co,Energy,Oil & Gas Exploration & Production,Houston; Texas,912750
+NI,20161101,-88.70967742,2016,10,1,NiSource Inc.,Utilities,Multi-Utilities,Merrillville; Indiana,1111711
+NKE,20160322,-14.33021807,2016,2,22,Nike,Consumer Discretionary,Apparel; Accessories & Luxury Goods,Washington County; Oregon,320187
+NLSN,20161025,24.13793103,2016,9,25,Nielsen Holdings,Industrials,Research & Consulting Services,New York; New York,1492633
+NOC,20161026,16.31944444,2016,9,26,Northrop Grumman Corp.,Industrials,Aerospace & Defense,West Falls Church; Virginia,1133421
+NOV,20161026,1545.454545,2016,9,26,National Oilwell Varco Inc.,Energy,Oil & Gas Equipment & Services,Houston; Texas,1021860
+NRG,20161104,388.4615385,2016,10,4,NRG Energy,Utilities,Independent Power Producers & Energy Traders,Princeton; New Jersey,1013871
+NSC,20161026,14.9851632,2016,9,26,Norfolk Southern Corp.,Industrials,Railroads,Norfolk; Virginia,702165
+NTAP,20160217,-1.515151515,2016,1,17,NetApp,Information Technology,Internet Software & Services,Sunnyvale; California,1002047
+NTRS,20161019,1.123595506,2016,9,19,Northern Trust Corp.,Financials,Asset Management & Custody Banks,Chicago; Illinois,73124
+NVDA,20151105,93.83259912,2015,10,5,Nvidia Corporation,Information Technology,Semiconductors,Santa Clara; California,1045810
+NWL,20161028,34.75177305,2016,9,28,Newell Brands,Consumer Discretionary,Housewares & Specialties,Sandy Springs; Georgia,814453
+O,20161026,-10,2016,9,26,Realty Income Corporation,Real Estate,Retail REITs,San Diego; California,726728
+OKE,20161101,-0.677200903,2016,10,1,ONEOK,Energy,Oil & Gas Storage & Transportation,Tulsa; Oklahoma,1039684
+OMC,20161018,-26.64359862,2016,9,18,Omnicom Group,Consumer Discretionary,Advertising,New York; New York,29989
+ORCL,20160315,-32.34100135,2016,2,15,Oracle Corp.,Information Technology,Application Software,Redwood Shores; California,1341439
+ORLY,20161026,-1.125127855,2016,9,26,O'Reilly Automotive,Consumer Discretionary,Specialty Stores,Springfield; Missouri,898173
+OXY,20161101,-179.4871795,2016,10,1,Occidental Petroleum,Energy,Oil & Gas Exploration & Production,Los Angeles; California,797468
+PAYX,20160330,-7.407407407,2016,2,30,Paychex Inc.,Information Technology,Internet Software & Services,Penfield; New York,723531
+PBCT,20161020,10.09174312,2016,9,20,People's United Financial,Financials,Thrifts & Mortgage Finance,Bridgeport; Connecticut,1378946
+PCAR,20161025,6.986899563,2016,9,25,PACCAR Inc.,Industrials,Construction & Farm Machinery & Heavy Trucks,Bellevue; Washington,75362
+PCG,20161104,0,2016,10,4,PG&E Corp.,Utilities,Multi-Utilities,San Francisco; California,1004980
+PCLN,20161107,-0.5497742,2016,10,7,Priceline.com Inc,Consumer Discretionary,Internet & Direct Marketing Retail,Norwalk; Connecticut,1075531
+PDCO,20160225,-21.56862745,2016,1,25,Patterson Companies,Health Care,Health Care Supplies,St. Paul; Minnesota,891024
+PEG,20161031,-21.56862745,2016,9,31,Public Serv. Enterprise Inc.,Utilities,Electric Utilities,Newark; New Jersey,788784
+PEP,20160929,41.96891192,2016,8,29,PepsiCo Inc.,Consumer Staples,Soft Drinks,Purchase; New York,77476
+PFG,20161027,-3.196347032,2016,9,27,Principal Financial Group,Financials,Life & Health Insurance,Des Moines; Iowa,1126328
+PG,20160426,-13.18327974,2016,3,26,Procter & Gamble,Consumer Staples,Personal Products,Cincinnati; Ohio,80424
+PGR,20161013,-27.35042735,2016,9,13,Progressive Corp.,Financials,Property & Casualty Insurance,Mayfield Village; Ohio,80661
+PH,20160426,-19.41176471,2016,3,26,Parker-Hannifin,Industrials,Industrial Machinery,Cleveland; Ohio,76334
+PHM,20161020,24.57912458,2016,9,20,Pulte Homes Inc.,Consumer Discretionary,Homebuilding,Atlanta; Georgia,822416
+PKI,20161107,7.216494845,2016,10,7,PerkinElmer,Health Care,Health Care Equipment,Waltham; Massachusetts,31791
+PLD,20161020,40.54054054,2016,9,20,Prologis,Real Estate,Industrial REITs,San Francisco; California,1045609
+PM,20161018,6.202209006,2016,9,18,Philip Morris International,Consumer Staples,Tobacco,New York; New York,1413329
+PNC,20161014,-3.966597077,2016,9,14,PNC Financial Services,Financials,Regional Banks,Pittsburgh; Pennsylvania,713676
+PNR,20161025,2.4,2016,9,25,Pentair Ltd.,Industrials,Industrial Machinery,Worsley; UK,77360
+PNW,20161103,2297.959184,2016,10,3,Pinnacle West Capital,Utilities,Multi-Utilities,Phoenix; Arizona,764622
+PPG,20161020,-143.9490446,2016,9,20,PPG Industries,Materials,Specialty Chemicals,Pittsburgh; Pennsylvania,79879
+PPL,20161101,11.29032258,2016,10,1,PPL Corp.,Utilities,Electric Utilities,Allentown; Pennsylvania,922224
+PRGO,20161110,-993.877551,2016,10,10,Perrigo,Health Care,Pharmaceuticals,Dublin; Ireland,1585364
+PRU,20161102,60.55226824,2016,10,2,Prudential Financial,Financials,Life & Health Insurance,Newark; New Jersey,1137774
+PSA,20161026,7.228915663,2016,9,26,Public Storage,Real Estate,Specialized REITs,Glendale; California,1393311
+PSX,20161028,-4.38247012,2016,9,28,Phillips 66,Energy,Oil & Gas Refining & Marketing,Houston; Texas,1534701
+PVH,20151202,42.78074866,2015,11,2,PVH Corp.,Consumer Discretionary,Apparel; Accessories & Luxury Goods,New York; New York,78239
+PWR,20161103,63.19444444,2016,10,3,Quanta Services Inc.,Industrials,Construction & Engineering,Houston; Texas,1050915
+PX,20161027,-17.01828411,2016,9,27,Praxair Inc.,Materials,Industrial Gases,Danbury; Connecticut,884905
+PXD,20161101,766.6666667,2016,10,1,Pioneer Natural Resources,Energy,Oil & Gas Exploration & Production,Irving; Texas,1038357
+PYPL,20161020,-19.40298507,2016,9,20,PayPal,Information Technology,Data Processing & Outsourced Services,San Jose; California,1633917
+QCOM,20160720,3.854389722,2016,6,20,QUALCOMM Inc.,Information Technology,Semiconductors,San Diego; California,804328
+QRVO,20160204,-117.8173719,2016,1,4,Qorvo,Information Technology,Semiconductors,Greensboro; North Carolina,1604778
+R,20161025,34.29054054,2016,9,25,Ryder System,Industrials,Trucking,Miami; Florida,85961
+RAI,20161019,2.915951973,2016,9,19,Reynolds American Inc.,Consumer Staples,Tobacco,Winston-Salem; North Carolina,1275283
+RCL,20161028,386.3636364,2016,9,28,Royal Caribbean Cruises Ltd,Consumer Discretionary,Hotels; Resorts & Cruise Lines,Miami; Florida,884887
+REG,20161101,-87.65432099,2016,10,1,Regency Centers Corporation,Real Estate,Retail REITs,Jacksonville; Florida,910606
+REGN,20161104,-2.78372591,2016,10,4,Regeneron,Health Care,Biotechnology,Tarrytown; New York,872589
+RF,20161018,7.623318386,2016,9,18,Regions Financial Corp.,Financials,Regional Banks,Birmingham; Alabama,1281761
+RHI,20161026,4.411764706,2016,9,26,Robert Half International,Industrials,Human Resource & Employment Services,Menlo Park; California,315213
+RHT,20151217,-28.57142857,2015,11,17,Red Hat Inc.,Information Technology,Systems Software,Raleigh; North Carolina,1087423
+RIG,20161102,2718.181818,2016,10,2,Transocean,Energy,Oil & Gas Drilling,Vernier; Switzerland,1451505
+RL,20160204,-14.68144044,2016,1,4,Polo Ralph Lauren Corp.,Consumer Discretionary,Apparel; Accessories & Luxury Goods,New York; New York,1037038
+ROK,20160727,12.30769231,2016,6,27,Rockwell Automation Inc.,Industrials,Electrical Components & Equipment,Milwaukee; Wisconsin,1024478
+ROP,20161031,-5.23255814,2016,9,31,Roper Industries,Industrials,Industrial Conglomerates,Sarasota; Florida,882835
+RRC,20161025,-675,2016,9,25,Range Resources Corp.,Energy,Oil & Gas Exploration & Production,Fort Worth; Texas,315852
+RSG,20161027,-52.83018868,2016,9,27,Republic Services Inc,Industrials,Environmental & Facilities Services,Phoenix; Arizona,1060391
+RTN,20161027,3.051237766,2016,9,27,Raytheon Co.,Industrials,Aerospace & Defense,Waltham; Massachusetts,1047122
+SBUX,20160721,7.822410148,2016,6,21,Starbucks Corp.,Consumer Discretionary,Restaurants,Seattle; Washington,829224
+SCG,20161027,-10.38696538,2016,9,27,SCANA Corp,Utilities,Multi-Utilities,Cayce; South Carolina,754737
+SCHW,20161017,-2.234636872,2016,9,17,Charles Schwab Corporation,Financials,Investment Banking & Brokerage,San Francisco; California,316709
+SEE,20161027,61.16504854,2016,9,27,Sealed Air,Materials,Paper Packaging,Elmwood Park; New Jersey,1012100
+SHW,20161025,99.02439024,2016,9,25,Sherwin-Williams,Materials,Specialty Chemicals,Cleveland; Ohio,89800
+SJM,20160223,13.55311355,2016,1,23,JM Smucker,Consumer Staples,Packaged Foods & Meats,Orrville; Ohio,91419
+SLB,20161020,-58.59872611,2016,9,20,Schlumberger Ltd.,Energy,Oil & Gas Equipment & Services,Cura<U+00E7>ao; Kingdom of the Netherlands,87347
+SLG,20161019,-113.4920635,2016,9,19,SL Green Realty,Real Estate,Office REITs,New York; New York,1040971
+SNA,20161020,-3.896103896,2016,9,20,Snap-On Inc.,Consumer Discretionary,Household Appliances,Kenosha; Wisconsin,91440
+SNI,20161107,-6.276150628,2016,10,7,Scripps Networks Interactive Inc.,Consumer Discretionary,Broadcasting & Cable TV,Cincinnati; Ohio,1430602
+SO,20161031,93.44262295,2016,9,31,Southern Co.,Utilities,Electric Utilities,Atlanta; Georgia,92122
+SPG,20161026,5.22875817,2016,9,26,Simon Property Group Inc,Real Estate,Retail REITs,Indianapolis; Indiana,1063761
+SPGI,20161103,154.7384382,2016,10,3,S&P Global; Inc.,Financials,Financial Exchanges & Data,New York; New York,64040
+SRCL,20161027,-19.1011236,2016,9,27,Stericycle Inc,Industrials,Environmental & Facilities Services,Lake Forest; Illinois,861878
+SRE,20161102,52.32198142,2016,10,2,Sempra Energy,Utilities,Multi-Utilities,San Diego; California,1032208
+STI,20161021,11.24694377,2016,9,21,SunTrust Banks,Financials,Regional Banks,Atlanta; Georgia,750556
+STT,20161026,19.66604824,2016,9,26,State Street Corp.,Financials,Asset Management & Custody Banks,Boston; Massachusetts,93751
+STX,20160429,-109.4594595,2016,3,29,Seagate Technology,Information Technology,Technology Hardware; Storage & Peripherals,Dublin; Ireland,1137789
+STZ,20160107,-26.13043478,2016,0,7,Constellation Brands,Consumer Staples,Distillers & Vintners,Victor; New York,16918
+SWK,20161027,21.65097755,2016,9,27,Stanley Black & Decker,Consumer Discretionary,Household Appliances,New Britain; Connecticut,93556
+SWKS,20160721,-17.9357022,2016,6,21,Skyworks Solutions,Information Technology,Semiconductors,Woburn; Massachusetts,4127
+SYF,20161021,-7.944514502,2016,9,21,Synchrony Financial,Financials,Consumer Finance,Stamford; Connecticut,1601712
+SYK,20161027,-25.57403009,2016,9,27,Stryker Corp.,Health Care,Health Care Equipment,Kalamazoo; Michigan,310764
+SYMC,20160204,-6.460674157,2016,1,4,Symantec Corp.,Information Technology,Application Software,Mountain View; California,849399
+SYY,20160502,-17.39130435,2016,4,2,Sysco Corp.,Consumer Staples,Food Distributors,Houston; Texas,96021
+T,20161022,-16.27906977,2016,9,22,AT&T Inc,Telecommunications Services,Integrated Telecommunications Services,Dallas; Texas,732717
+TAP,20161101,-6.930693069,2016,10,1,Molson Coors Brewing Company,Consumer Staples,Brewers,Denver; Colorado,24545
+TDC,20161027,-3.896103896,2016,9,27,Teradata Corp.,Information Technology,Application Software,Miamisburg; Ohio,816761
+TEL,20160720,104.6728972,2016,6,20,TE Connectivity Ltd.,Information Technology,Electronic Manufacturing Services,Schaffhausen; Switzerland,1385157
+TGNA,20161102,33.99503722,2016,10,2,Tegna; Inc.,Consumer Discretionary,Publishing,McLean; Virginia,39899
+TGT,20151118,-41.53846154,2015,10,18,Target Corp.,Consumer Discretionary,General Merchandise Stores,Minneapolis; Minnesota,27419
+TIF,20151124,-28.57142857,2015,10,24,Tiffany & Co.,Consumer Discretionary,Apparel; Accessories & Luxury Goods,New York; New York,98246
+TMK,20161025,1.133391456,2016,9,25,Torchmark Corp.,Financials,Life & Health Insurance,McKinney; Texas,320335
+TMO,20161027,-9.848484848,2016,9,27,Thermo Fisher Scientific,Health Care,Health Care Equipment,Waltham; Massachusetts,97745
+TRIP,20161108,33.57400722,2016,10,8,TripAdvisor,Consumer Discretionary,Internet & Direct Marketing Retail,Newton; Massachusetts,1526520
+TROW,20161027,13.4751773,2016,9,27,T. Rowe Price Group,Financials,Asset Management & Custody Banks,Baltimore; Maryland,1113169
+TRV,20161020,-8.921933086,2016,9,20,The Travelers Companies Inc.,Financials,Property & Casualty Insurance,New York; New York,86312
+TSCO,20161019,20.50359712,2016,9,19,Tractor Supply Company,Consumer Discretionary,Specialty Retail,Brentwood; Tennessee,916365
+TSN,20160808,10.42402827,2016,7,8,Tyson Foods,Consumer Staples,Packaged Foods & Meats,Springdale; Arkansas,100493
+TSO,20161031,58.18584071,2016,9,31,Tesoro Petroleum Co.,Energy,Oil & Gas Refining & Marketing,San Antonio; Texas,50104
+TSS,20161025,-14.6567718,2016,9,25,Total System Services,Information Technology,Internet Software & Services,Columbus; Georgia,721683
+TWX,20161102,17.98107256,2016,10,2,Time Warner Inc.,Consumer Discretionary,Broadcasting & Cable TV,New York; New York,1105705
+TXN,20161026,27.7173913,2016,9,26,Texas Instruments,Information Technology,Semiconductors,Dallas; Texas,97476
+UAA,20161025,499.1666667,2016,9,25,Under Armour,Consumer Discretionary,Apparel; Accessories & Luxury Goods,Baltimore; Maryland,1336917
+UAL,20161017,47.33235438,2016,9,17,United Continental Holdings,Industrials,Airlines,Chicago; Illinois,100517
+UDR,20161025,138.0952381,2016,9,25,UDR Inc,Real Estate,Residential REITs,Highlands Ranch; Colorado,74208
+UHS,20161026,-27.86885246,2016,9,26,Universal Health Services; Inc.,Health Care,Health Care Facilities,King of Prussia; Pennsylvania,352915
+UNH,20161018,-2.497598463,2016,9,18,United Health Group Inc.,Health Care,Managed Health Care,Minnetonka; Minnesota,731766
+UNM,20161026,0.497512438,2016,9,26,Unum Group,Financials,Life & Health Insurance,Chattanooga; Tennessee,5513
+UNP,20161020,7.086614173,2016,9,20,Union Pacific,Industrials,Railroads,Omaha; Nebraska,100885
+UPS,20161027,9.756097561,2016,9,27,United Parcel Service,Industrials,Air Freight & Logistics,Atlanta; Georgia,1090727
+URI,20161019,63.63636364,2016,9,19,United Rentals; Inc.,Industrials,Trading Companies & Distributors,Stamford; Connecticut,1067701
+USB,20161019,0,2016,9,19,U.S. Bancorp,Financials,Diversified Banks,Minneapolis; Minnesota,36104
+UTX,20161025,20.83333333,2016,9,25,United Technologies,Industrials,Aerospace & Defense,Hartford; Connecticut,101829
+V,20160721,-79.0897909,2016,6,21,Visa Inc.,Information Technology,Internet Software & Services,San Francisco; California,1403161
+VAR,20160727,-9.800520382,2016,6,27,Varian Medical Systems,Health Care,Health Care Equipment,Palo Alto; California,203527
+VFC,20161024,79.64071856,2016,9,24,V.F. Corp.,Consumer Discretionary,Apparel; Accessories & Luxury Goods,Greensboro; North Carolina,103379
+VIAB,20160804,21.7877095,2016,7,4,Viacom Inc.,Consumer Discretionary,Broadcasting & Cable TV,New York; New York,1339947
+VLO,20161025,53.93518519,2016,9,25,Valero Energy,Energy,Oil & Gas Refining & Marketing,San Antonio; Texas,1035002
+VMC,20161102,148.8262911,2016,10,2,Vulcan Materials,Materials,Construction Materials,Birmingham; Alabama,1396009
+VNO,20161031,-32.65306122,2016,9,31,Vornado Realty Trust,Real Estate,Office REITs,New York; New York,899689
+VRSK,20161101,2.209944751,2016,10,1,Verisk Analytics,Industrials,Research & Consulting Services,Jersey City; New Jersey,1442145
+VRSN,20161027,4.651162791,2016,9,27,Verisign Inc.,Information Technology,Internet Software & Services,Dulles; Virginia,1014473
+VRTX,20161025,-293.1818182,2016,9,25,Vertex Pharmaceuticals Inc,Health Care,Biotechnology,Cambridge; Massachusetts,875320
+VTR,20161028,9.090909091,2016,9,28,Ventas Inc,Real Estate,Health Care REITs,Chicago; Illinois,740260
+VZ,20161020,-17.20930233,2016,9,20,Verizon Communications,Telecommunications Services,Integrated Telecommunications Services,New York; New York,732712
+WAT,20161025,14.17910448,2016,9,25,Waters Corporation,Health Care,Health Care Distributors,Milford; Massachusetts,1000697
+WBA,20160706,-27.3381295,2016,6,6,Walgreens Boots Alliance,Consumer Staples,Drug Retail,Deerfield; Illinois,1618921
+WDC,20160428,-71.17117117,2016,3,28,Western Digital,Information Technology,Technology Hardware; Storage & Peripherals,Irvine; California,106040
+WEC,20161026,-40.86956522,2016,9,26,Wec Energy Group Inc,Utilities,Electric Utilities,Milwaukee; Wisconsin,783325
+WFC,20161014,-0.483091787,2016,9,14,Wells Fargo,Financials,Diversified Banks,San Francisco; California,72971
+WFM,20160727,-16.09977324,2016,6,27,Whole Foods Market,Consumer Staples,Food Retail,Austin; Texas,865436
+WHR,20161025,13.55311355,2016,9,25,Whirlpool Corp.,Consumer Discretionary,Household Appliances,Benton Harbor; Michigan,106640
+WLTW,20161104,-109.6033403,2016,10,4,Willis Towers Watson,Financials,Insurance Brokers,London; United Kingdom,1140536
+WM,20161026,14.28571429,2016,9,26,Waste Management Inc.,Industrials,Environmental Services,Houston; Texas,823768
+WMB,20161031,-87.87878788,2016,9,31,Williams Cos.,Energy,Oil & Gas Storage & Transportation,Tulsa; Oklahoma,107263
+WMT,20151117,5.102040816,2015,10,17,Wal-Mart Stores,Consumer Staples,Hypermarkets & Super Centers,Bentonville; Arkansas,104169
+WRK,20160804,-18.05555556,2016,7,4,WestRock Company,Materials,Paper Packaging,Richmond; Virginia,1636023
+WU,20161101,10,2016,10,1,Western Union Co,Information Technology,Internet Software & Services,Englewood; Colorado,1365135
+WY,20161028,7.142857143,2016,9,28,Weyerhaeuser Corp.,Real Estate,Specialized REITs,Federal Way; Washington,106535
+WYN,20161026,50.84745763,2016,9,26,Wyndham Worldwide,Consumer Discretionary,Hotels; Resorts & Cruise Lines,Parsippany; New Jersey,1361658
+XEC,20161102,-117.2839506,2016,10,2,Cimarex Energy,Energy,Oil & Gas Exploration & Production,Denver; Colorado,1168054
+XEL,20161027,91.4893617,2016,9,27,Xcel Energy Inc,Utilities,Multi-Utilities,Minneapolis; Minnesota,72903
+XL,20161026,-64.58923513,2016,9,26,XL Capital,Financials,Property & Casualty Insurance,Hamilton; Bermuda,875159
+XLNX,20160120,-14.48516579,2016,0,20,Xilinx Inc,Information Technology,Semiconductors,San Jose; California,743988
+XOM,20161028,-33.82352941,2016,9,28,Exxon Mobil Corp.,Energy,Integrated Oil & Gas,Irving; Texas,34088
+XRAY,20161104,-7.80141844,2016,10,4,Dentsply Sirona,Health Care,Health Care Supplies,York; Pennsylvania,818479
+XRX,20161028,78.94736842,2016,9,28,Xerox Corp.,Information Technology,Technology Hardware; Storage & Peripherals,Norwalk; Connecticut,108772
+YHOO,20161018,226.9230769,2016,9,18,Yahoo Inc.,Information Technology,Internet Software & Services,Sunnyvale; California,1011006
+YUM,20161005,84.83412322,2016,9,5,Yum! Brands Inc,Consumer Discretionary,Restaurants,Louisville; Kentucky,1041061
+ZBH,20161031,-50.41322314,2016,9,31,Zimmer Biomet Holdings,Health Care,Health Care Equipment,Warsaw; Indiana,1136869
+ZION,20161024,19.24686192,2016,9,24,Zions Bancorp,Financials,Regional Regional Banks,Salt Lake City; Utah,109380
+ZTS,20161102,-4,2016,11,2,Zoetis,Health Care,Pharmaceuticals,Florham Park; New Jersey,1555280
